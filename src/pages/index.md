@@ -2,15 +2,28 @@
 templateKey: index-page
 title: Christ Apostolic Church - Heavenly Voyage
 image: /img/brady-bellini-1283923-unsplash.jpg
-heading: Come and see what the Lord has done
-subheading: Support sustainable farming while enjoying a cup
+heading: 'Beliefs and Tenants '
+subheading: Come and see what the Lord has done
 mainpitch:
-  title: Test TEST
+  title: Who We Are
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Christ Apostolic Church (Heavenly Voyage) is a new assembly of Christ
+    Apostolic Church, affiliated to Christ Apostolic Church North America
+    Region(CAC-NA), under the global umbrella of Christ Apostolic Church
+    (Worldwide). As of 2018, the current leader of CAC (Worldwide) is Pastor
+    A.O. Akinosun, President, located in the Christ Apostolic Church
+    Headquarters in Ibadan, Nigeria.
+
+
+    The regional umbrella in North America, C.A.C.NA covers all C.A.C assemblies
+    in USA and Canada, under the regional Superintendent, Pastor T.A.O. Agbeja,
+    (Ph. D). The Superintendent of the California Zone is Pastor Gabriel Idowu. 
+
+
+    The C.A.C. mission has its offspring in Nigeria (West Africa), in 1918. This
+    foremost African Pentecostal church now has memberships in the order of 7
+    million, and 1,000’s of church assemblies in Africa, Europe and North
+    America. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
