@@ -24,7 +24,9 @@ mainpitch:
     foremost African Pentecostal church now has memberships in the order of 7
     million, and 1,000’s of church assemblies in Africa, Europe and North
     America. 
-description: NOT SURE
+description: >-
+  Some of the primary tenets of Christ Apostolic Church (Worldwide) are as
+  follows:
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -57,7 +59,7 @@ intro:
   heading: What we offer
   description: >
     Some of the primary tenets of Christ Apostolic Church (Worldwide) are as
-    follows:
+    follows:2
 main:
   heading: Great coffee with no compromises
   description: >
