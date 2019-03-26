@@ -25,10 +25,8 @@ mainpitch:
     million, and 1,000’s of church assemblies in Africa, Europe and North
     America. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Some of the primary tenets of Christ Apostolic Church (Worldwide) are as
+  follows:
 intro:
   blurbs:
     - image: /img/coffee.png
