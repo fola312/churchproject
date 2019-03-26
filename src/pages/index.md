@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Check CHECK CHECK
+title: Christ Apostolic Church - Heavenly Voyage
 image: /img/brady-bellini-1283923-unsplash.jpg
-heading: why isn't this working???
+heading: Come and see what the Lord has done
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Test TEST
