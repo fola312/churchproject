@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Check CHECK CHECK
 image: /img/brady-bellini-1283923-unsplash.jpg
-heading: Great coffee with a conscience
+heading: why isn't this working???
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Test TEST
