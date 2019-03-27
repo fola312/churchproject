@@ -1,19 +1,55 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Vision Statement
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### We, the members of the congregation in Christ Apostolic Church (Heavenly Voyage), do hereby affirm our call by the Almighty God, Jehovah, and commit to honor, worship and serve Him, and His Son, Our Lord Jesus Christ whom He sent to redeem us and the world of bondage to sin and death, and to His Holy Spirit who abides in and with us, part of the body of Christ, the Church.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 
+
+### As an Assembly founded to further the mission of Christ Apostolic Church, (Worldwide), we remain loyal and faithful to the course, and commit to the regional body, C.A.C. North America.  At Heavenly Voyage, being regenerated, we will be a leader in the missionary frontier, steadfast and faithful through evangelism and teaching of the GOSPEL of Christ, devoted to the TRINITY in love and service, and same to all of humanity whom He created. The purpose is to help to bring the called or elect, closer and closer to Him who pre-destined all.
+
+### 
+
+### Under the control and direction of the Holy Spirit, we resolve to:
+
+### Worship Our Father God, Our Lord Jesus Christ and the Holy Spirit our Paraclete, with hymns, songs of praises, thanksgiving, and grateful heart.
+
+### Dedicate to a life of faith that is fruitful
+
+### Prayers without ceasing.
+
+### Imbibe the inerrancy of the Holy Scriptures (“Sola Scriptura”).
+
+### Witness the good news of, “Salvation for All in Christ” through teaching and preaching the word of God.
+
+### Aid and nurture the wellness of our members’ physical being and spiritual purity.
+
+### Engage in activities that will bring honor to the Lord, in daily services to our neighbors and the larger community of peoples we contact all over the world. 
+
+### Implement effective discipling and mentoring programs to ensure that all believers are successful in their various ministries, for the honor of the Lord and the blessings upon the local assembly and the universal Church.
+
+### Contribute to the welfare of the needy in our community and beyond.
+
+### 
+
+### 
+
+### 
+
+### Mission Statement
+
+### Our mission at Christ Apostolic Church (Heavenly Voyage) is to ACTE i.e.
+
+### Act in LOVE.
+
+### Care passionately for Christ and the individual.
+
+### Team together prayerfully for Efficacy and vertical Growth.
+
+### Evangelize our world for Christ, for horizontal Growth
