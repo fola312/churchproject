@@ -1,57 +1,63 @@
 ---
-templateKey: 'index-page'
-title: 'Great coffee with a conscience'
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+templateKey: index-page
+title: Christ Apostolic Church - Heavenly Voyage
+image: /img/brady-bellini-1283923-unsplash.jpg
+heading: 'Beliefs and Tenants '
+subheading: Come and see what the Lord has done
 mainpitch:
-  title: Why Kaldi
+  title: Who We Are
   description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
+    Christ Apostolic Church (Heavenly Voyage) is a new assembly of Christ
+    Apostolic Church, affiliated to Christ Apostolic Church North America
+    Region(CAC-NA), under the global umbrella of Christ Apostolic Church
+    (Worldwide). As of 2018, the current leader of CAC (Worldwide) is Pastor
+    A.O. Akinosun, President, located in the Christ Apostolic Church
+    Headquarters in Ibadan, Nigeria.
+
+
+    The regional umbrella in North America, C.A.C.NA covers all C.A.C assemblies
+    in USA and Canada, under the regional Superintendent, Pastor T.A.O. Agbeja,
+    (Ph. D). The Superintendent of the California Zone is Pastor Gabriel Idowu. 
+
+
+    The C.A.C. mission has its offspring in Nigeria (West Africa), in 1918. This
+    foremost African Pentecostal church now has memberships in the order of 7
+    million, and 1,000’s of church assemblies in Africa, Europe and North
+    America. 
+description: >-
+  Some of the primary tenets of Christ Apostolic Church (Worldwide) are as
+  follows:
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/bible-free-icon.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Unity of the God-head, and the persons therein (Father, Son and Holy
+        Spirit)
+    - image: /img/manger-free-icon.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        The Virgin Birth, Sinless Life, Atoning Death, Physical Triumphant
+        Resurrection, Ascension, and the abiding intercession of our Lord Jesus
+        Christ
+    - image: /img/dove-free-icon.png
+      text: |
+        Jesus Christ’s second coming and Millennia reign.
+    - image: /img/communion-free-icon.png
+      text: >-
+        Water Baptism by immersion, and the baptism of the Holy Ghost for
+        believers with signs that follow.
+    - image: /img/growth-free-icon.png
+      text: >-
+        Justification and Sanctification of believers through the finished work
+        of Chris
+    - image: /img/loaves-free-icon.png
+      text: >-
+        Believe Holy Bible to be verbally inspired, innerant Word of God, and,
+        when rightly interpreted by the Holy Spirit, to be the infallible rule
+        of faith and practice.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Some of the primary tenets of Christ Apostolic Church (Worldwide) are as
+    follows:2
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,43 +74,5 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---
 
