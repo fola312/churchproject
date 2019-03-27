@@ -14,18 +14,18 @@ intro:
       text: >-
         Unity of the God-head, and the persons therein (Father, Son and Holy
         Spirit) 
-    - image: /img/coffee.png
+    - image: /img/manger-free-icon.png
       text: >
         The Virgin Birth, Sinless Life, Atoning Death, Physical Triumphant
         Resurrection, Ascension, and the abiding intercession of our Lord Jesus
         Christ 
-    - image: /img/coffee-gear.png
+    - image: /img/dove-free-icon.png
       text: Jesus Christ’s second coming and Millennia reign.
-    - image: /img/tutorials.png
+    - image: /img/communion-free-icon.png
       text: >
         Water Baptism by immersion, and the baptism of the Holy Ghost for
         believers with signs that follow.
-    - image: /img/meeting-space.png
+    - image: /img/growth-free-icon.png
       text: >-
         Justification and Sanctification of believers through the finished work
         of Chris
