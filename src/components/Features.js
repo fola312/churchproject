@@ -17,7 +17,7 @@ const FeatureGrid = ({ gridItems }) => (
               <PreviewCompatibleImage imageInfo={item} />
             </div>
           </div>
-          <p>{item.text}test test tese</p>
+          <p>{item.text}</p>
         </section>
       </div>
     ))}

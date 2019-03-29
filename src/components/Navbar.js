@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
 import logo1 from "../img/logo1.png";
 import logo2 from "../img/logo2.jpg";
 
@@ -40,12 +39,12 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
-      >
+      > <img src={logo2} alt="cacLogo" style={{ width: "88px", height: "88px" }} />
         <div className="container">
         <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               {/* <img src={logo1} alt="cacLogo" style={{ width: "88px", height: "200px" }} /> */}
-              <img src={logo2} alt="cacLogo" style={{ width: "88px", height: "88px" }} />
+              {/* <img src={logo2} alt="cacLogo" style={{ width: "88px", height: "88px" }} /> */}
             </Link>
                    
             {/* Hamburger menu */}
@@ -78,10 +77,10 @@ const Navbar = class extends React.Component {
               </Link>
             </div>
             <div className="navbar-end has-text-centered">
-
             </div>
           </div>
         </div>
+        <img src={logo1} alt="cacLogo" style={{ width: "88px", height: "88px" }} />
       </nav>
     );
   }

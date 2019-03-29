@@ -17,7 +17,7 @@ export default class BlogIndexPage extends React.Component {
                   backgroundImage: `url('/img/blog-index.jpg')`,
                 }}
               >
-                <h1
+                {/* <h1
                   className="has-text-weight-bold is-size-2"
                   style={{
                     boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
@@ -27,7 +27,7 @@ export default class BlogIndexPage extends React.Component {
                   }}
                 >
                   blog
-                </h1>
+                </h1> */}
               </div>
             </div>
               <BlogRoll />
