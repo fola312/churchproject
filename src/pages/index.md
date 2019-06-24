@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Christ Apostolic Church - Heavenly Voyage
+title: Christ Apostolic Church - San Bernardino
 image: /img/brady-bellini-1283923-unsplash.jpg
 heading: 'Beliefs and Tenants '
-subheading: Come and see what the Lord has done
+subheading: Grace and Progress Center
 mainpitch:
   title: Who We Are
   description: >
